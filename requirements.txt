@@ -11,6 +11,7 @@ tqdm
 coloredlogs==10.0
 scipy
 setproctitle==1.1.10
+tensorflow_gpu==1.15.2
 matplotlib
 visdom==0.1.8.8
 Cython==0.29.6
